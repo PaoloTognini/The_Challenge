@@ -1,8 +1,10 @@
-# The_Challenge
+# The Challenge
+## Description
 A non-original game written in Pygame for fun.
 
 "The Challenge" is an emulation of the game "Chip's Challenge" (1989), originally written for the Atari Lynx by Chuck Sommerville, and later ported to MS Windows by Microsoft.
 
+## Instructions to play
 To run it on your computer, follow these steps:
 
 1) copy the reposity on your computer using the following command:
