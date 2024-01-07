@@ -4,7 +4,7 @@ A non-original game written in Pygame for fun.
 
 "The Challenge" is an emulation of the game "Chip's Challenge" (1989), originally written for the Atari Lynx by Chuck Sommerville, and later ported to MS Windows by Microsoft.
 
-The board is a square grid. You control the Player (in my version it is a white square). The goal of each elvel is to reach the Exit. Usually you will have to collect chips, keys or shoes, and you will have to avoid the monsters. Some levels are intellectual puzzles, others require some degree of agility.
+The board is a square grid. You control the Player (in my version it is a white square). The goal of each level is to reach the Exit. Usually you will have to collect chips, keys or shoes, and you will have to avoid the monsters. Some levels are intellectual puzzles, others require some degree of agility.
 
 Good luck!
 
