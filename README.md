@@ -8,7 +8,9 @@ The board is a square grid. You control the Player (in my version it is a white 
 
 Good luck!
 
-## Instructions to play
+![Screenshot](TheChallenge_screenshot.png)
+
+## How to get started
 To run it on your computer, follow these steps:
 
 1) copy the reposity on your computer using the following command:
